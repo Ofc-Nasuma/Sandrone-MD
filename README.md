@@ -2,7 +2,9 @@
 
 > *"Soy una Bot... estoy aquí para acompañarte con tus grupos de WhatsApp."*
 
-Bot de WhatsApp elegante y misterioso, creado desde cero en Termux sin necesidad de PC.
+Bot de WhatsApp, creado desde cero en Termux sin necesidad de PC.
+
+Próximamente más comandos...
 
 ---
 
