@@ -1,6 +1,6 @@
 # 🖤 Sandrone-MD
 
-> *"Soy una Bot... estoy aquí para acompañarte con tud grupos de WhatsApp."*
+> *"Soy una Bot... estoy aquí para acompañarte con tus grupos de WhatsApp."*
 
 Bot de WhatsApp elegante y misterioso, creado desde cero en Termux sin necesidad de PC.
 
