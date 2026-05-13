@@ -1,6 +1,6 @@
 # 🖤 Sandrone-MD
 
-> *"Soy una presencia silenciosa... estoy aquí para acompañarte con calma y discreción."*
+> *"Soy una Bot... estoy aquí para acompañarte con tud grupos de WhatsApp."*
 
 Bot de WhatsApp elegante y misterioso, creado desde cero en Termux sin necesidad de PC.
 
