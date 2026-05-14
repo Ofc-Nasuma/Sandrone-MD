@@ -72,8 +72,7 @@ node index.js
 [![GataNina-Li](https://github.com/Ofc-nasuma.png?size=100)](https://github.com/Ofc-nasuma) 
 <div align="center">
 <img src="https://qu.ax/NUwY.gif" width="150" alt="Ai Oshino GIF"/>
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
+
 
 **Ofic_Nasuma** — [TikTok](https://www.tiktok.com/@ofc_nasuma) · [GitHub](https://github.com/Ofc-Nasuma)
 
